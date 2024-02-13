@@ -4,7 +4,7 @@
 Array
 
 > Big O: 
-O(log(n))
+O(n)
 
 Linear Search find a value from array, value by value, starting from de 0 position of an array until the lenght of the array.
 
